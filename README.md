@@ -1,4 +1,7 @@
 # eSportsLS
+
+**2019/2020**
+
 Recursive Sorting Algorithms
 eSports La Salle is a (fictional) project created by the university to organize the League of Legends game competitions. First, the aim is to organize a league between the best professional teams and then bring together the best players in their respective teams to create a world tournament.
 League of Legends is an online MOBA game, where each user controls one of several characters available, each with its own unique abilities properties. Each game consists of two teams of 5 players, each with its position corresponding to the game map (Top, Jungle, Mid, ADC, Support). The winner is the team that manages to destroy the opponent's base.
